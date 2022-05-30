@@ -20,7 +20,7 @@ You can open the interactive example notebook straight away via Google Colab: [!
 
 If you want to cite our work, you can use the following reference:
 
-``
+```
 @misc{cunningham2022geopointgan,
     title={GeoPointGAN: Synthetic Spatial Data with Local Label Differential Privacy},
     author={Teddy Cunningham and Konstantin Klemmer and Hongkai Wen and Hakan Ferhatosmanoglu},
@@ -29,4 +29,4 @@ If you want to cite our work, you can use the following reference:
     archivePrefix={arXiv},
     primaryClass={cs.LG}
 }
-``
+```
